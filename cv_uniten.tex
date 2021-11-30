@@ -1,0 +1,278 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% "ModernCV" CV and Cover Letter
+% LaTeX Template
+% Version 1.11 (19/6/14)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Xavier Danaux (xdanaux@gmail.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template requires the moderncv.cls and .sty files to be in the same 
+% directory as this .tex file. These files provide the resume style and themes 
+% used for structuring the document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt,a4paper,sans]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+\usepackage{natbib} 
+\usepackage{bibentry}
+
+\nobibliography*
+
+
+
+
+\moderncvstyle{casual} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+
+\usepackage[scale=0.75]{geometry} % Reduce document margins
+%\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
+%\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
+
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\firstname{Dickson} % Your first name
+\familyname{Neoh} % Your last name
+
+% All information in this block is optional, comment out any lines you don't need
+\title{Curriculum Vitae}
+%\address{A-08-07, Pangsapuri Suria Perdana,}{Persiaran Serdang Perdana, 43300, Seri Kembangan, Selangor, Malaysia}
+\mobile{(+6013) 3250 827}
+%\phone{(000) 111 1112}
+%\fax{(000) 111 1113}
+\email{dickson.neoh@gmail.com}
+%\homepage{staff.org.edu/~jsmith}{staff.org.edu/$\sim$jsmith} % The first argument is the url for the clickable link, the second argument is the url displayed in the template - this allows special characters to be displayed such as the tilde in this example
+%\extrainfo{additional information}
+\photo[70pt][0.4pt]{pictures/pic} % The first bracket is the picture height, the second is the thickness of the frame around the picture (0pt for no frame)
+%\quote{"A witty and playful quotation" - John Smith}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+%----------------------------------------------------------------------------------------
+%	COVER LETTER
+%----------------------------------------------------------------------------------------
+
+%% To remove the cover letter, comment out this entire block
+%
+%\clearpage
+%
+%\recipient{Human Resource Department}{Universiti Tenaga Nasional,\\Jalan IKRAM-UNITEN\\43000 Kajang, Selangor} % Letter recipient
+%\date{\today} % Letter date
+%\opening{Dear Sir/Madam,} % Opening greeting
+%\closing{Sincerely yours,} % Closing phrase
+%\enclosure[Attached]{curriculum vit\ae{}} % List of enclosed documents
+%
+%\makelettertitle % Print letter title
+%
+%My name is Dickson Neoh. I have over 6 years of experience in robotics and embedded systems and 1 year experience in artificial intelligence systems. I am very much interested in applying to your company as a lecturer, if possible in the areas of my interests. I believe that I could provide a valuable service for your company, and that my abilities would suit the role you need filled perfectly.
+%
+%I believe this for several reasons. Over the course of my studies and career, I have been teaching robotics workshops to school and university students throughout the entire country. I have worked closely with the UNITEN marketing team to uplift the UNITEN brand in schools through mentoring and organizing robotics workshops. Apart from that, I have also been constantly working with MARA in organizing workshops in MRSM schools and tutoring MRSM students entering the MRSM Robofair competitions.
+%
+%
+%I have also proven myself to be a valuable researcher as far as my track record in UNITEN as a student and research assistant goes. My works has been published through local and international conferences and journal proceedings by renowned publisher such as IEEE, Elsevier, Springer, just to name a few. 
+%My skill base and research capability makes me a particularly strong candidate for this job role. 
+%
+%I would love to have the opportunity to interview with your company, and explain my capabilities in more detail. I am certain that you are very busy, and would happily interview at your convenience. I can be reached at 013-3250-827 any time of normal working day, including weekends. Thank you very much for your time and consideration.
+%%\lipsum[1-3] % Dummy text
+%
+%\makeletterclosing % Print letter signature
+%\pagebreak
+%----------------------------------------------------------------------------------------
+
+
+
+\makecvtitle % Print the CV title
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Education}
+
+\cventry{2012--2015}{Master of Electrical Engineering (MEE)}{Universiti Tenaga Nasional}{Malaysia}{\textit{CGPA -- 4.00}}{}  % Arguments not required can be left empty
+\cventry{2007--2012}{Bachelor of Electrical and Electronics Engineering (BEEE)}{Universiti Tenaga Nasional}{Malaysia}{\textit{CGPA -- 3.71}}{First Class Honours}
+\cventry{2016--present}{PhD in Engineering Candidate}{Universiti Tenaga Nasional}{Malaysia}{}{}
+
+
+{Specialized in Cognitive Robotics Software \& Control, Predictive \& Big Data Analytic, Deep Learning in Computer Vision \& Time Series }
+
+
+\section{PhD. Thesis (Ongoing)}
+\cvitem{Title}{State-of-Charge Estimation in Hybrid Electric Vehicles with Deep Learning.}
+\cvitem{Supervisor}{M A Hannan, (PhD).}
+\cvitem{Description}{This study explores the effectiveness of using deep learning algorithms to estimate the amount of available charge in the batteries of hybrid electric vehicles. The study conducts various in depth comparative analysis of state-of-the-art deep learning algorithms applied to charge estimation. The goal of the study is to develop a novel estimation algorithm capable of learning to estimate the remaining charge from the drivers' driving behaviors.}
+
+\section{Masters Thesis}
+
+\cvitem{Title}{Behavior Recognition of Humanoid Robots using Long Short-Term Memory.}
+\cvitem{Supervisors}{Khairul Salleh Mohamed Sahari (PhD.) \& Loo Chu Kiong, (PhD).}
+\cvitem{Description}{This thesis explored the idea of recognizing the behavior of humanoid robots using a Long Short-Term Memory (LSTM), a variation of recurrent neural networks. The LSTM network is shown capable of classifying robotic maneuvers from joint angle data.}
+
+
+\section{Bachelors Thesis}
+\cvitem{Title}{Modular Motor Driver with Torque Control for Gripping Mechanism.}
+\cvitem{Supervisors}{Zafri Baharuddin (PhD.) \& Syed Sulaiman Kaja Mohideen.}
+\cvitem{Description}{This thesis explored the idea of building a torque control DC motor driver using PWM techniques in combination with PID control algorithms. }
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Experience}
+
+
+\cventry{May 2016--Present}{Lecturer}{College of Engineering}{Universiti Tenaga Nasional}{Malaysia}{ Achievements:\\ 
+	Principal investigator of the following research grant:
+	\begin{itemize}
+		\item Hand Talk - Sign Language Recognition for the Speech and Hearing Impaired with Deep Learning - 2016. 
+		\item Towards Self Driving Vehicles in Malaysia: Object Recognition on Malaysian Roads using Deep Learning - 2017.  
+		\item Development of Educational Mechatronics Modules to Encourage STEM learning for Primary and Secondary school students - 2018.
+		\item Development of community building energy management system for cost-effectiveness, sustainability and safety occupant well-being - 2018.
+	\end{itemize}
+}
+	
+
+\cventry{October 2015--April 2016}{Research Engineer}{Center for Advanced Mechatronics and Robotics}{Universiti Tenaga Nasional}{Malaysia}{ Achievements:
+	\begin{itemize}
+		\item Developed automatic number plate recognition pipeline using deep convolutional neural networks.
+		\item Developed RFID based crowd attendance system using Raspberry Pi and Arduino controller coupled with MySQL database system.
+		\item Created intuitive graphical user interface using open source tools with free licensing for commercialization of product.
+	\end{itemize}
+}
+
+\cventry{2012--October 2015}{Research Assistant}{Center for Advanced Mechatronics and Robotics}{Universiti Tenaga Nasional}{Malaysia}{
+Achievements:
+	\begin{itemize}
+		\item Developed algorithm to classify robot behavior using recurrent neural networks (RNN) with Long Short-Term Memory (LSTM) architecture.
+		\item Worked with machine vision and autoencoder networks.
+		\item Learned to use python scripts in Linux operating system.
+		\item Programmed the NAO humanoid robot.
+		\item Learned to use the Robot Operating System (ROS).
+		\item Developed educational workshop robotics kits for students of primary, secondary and university students age range.
+		\item Developed boiler header inspection inspection robots with using live vision inspection.
+		\item Learned to design embedded controllers using Microcip PIC, Arduino, Rapberry Pi microcontroller boards.
+	\end{itemize}
+}
+
+%------------------------------------------------
+\cventry{2011--2012}{Final Year Project}{Universiti Tenaga Nasional}{Malaysia}{}{
+Achievements:
+	\begin{itemize}
+		\item Developed torque-control algorithms for DC motors using PWM techniques.
+		\item Developed PID algorithms for general robot gripping mechanism.
+		\item Learned to program the Arduino/PIC series microcontroller.
+	\end{itemize}
+}
+
+%------------------------------------------------
+
+\cventry{2010--2011}{Summer Intern}{\textsc{MyRobotz Enterprise}}{Malaysia}{
+\newline{}
+Achievements:}
+{
+	\begin{itemize}
+		\item Organized robotics workshop for school students.
+		\item Designed and develop custom use printed circuit boards (PCB).
+	\end{itemize}
+}
+%------------------------------------------------
+\cventry{2007--2010}{Mobile Robotics Club}{Universiti Tenaga Nasional}{Malaysia}{}{
+Achievements:
+	\begin{itemize}
+		\item Developed motherboard controller and printed circuit boards for mobile robots.
+		\item Learned to program the AVR microcontollers for mobile robot tasks including maneuverings, gripping mechanisms.
+		\item Developed algorithm for line-following robot, obstacle avoiding robot, etc.
+	\end{itemize}
+}
+
+
+
+
+%----------------------------------------------------------------------------------------
+%	AWARDS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Awards}
+
+\cvitem{2016}{Recipient of the UNITEN BOLD PhD. Scholarship.}
+\cvitem{2012}{Recipient of the Yayasan Tenaga Nasional Scholarship for Postgraduate (Masters) Studies. - M.Eng. Electrical}
+\cvitem{2007}{Recipient of the Yayasan Tenaga Nasional Scholarship for undergraduate studies - B.Eng. Electrical \& Electronics (Hons.)}
+\cvitem{2002}{Recipient of the Tenaga Nasional Berhad Scholarship award for secondary education.}
+%----------------------------------------------------------------------------------------
+%	COMPUTER SKILLS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Computer skills}
+
+\cvitem{Basic}{Visual Basic.NET, C\#, AVR microcontrollers }
+\cvitem{Intermediate}{\LaTeX, OpenOffice, Linux, Matlab, C++, Robot Operating System (ROS), MySQL}
+\cvitem{Advanced}{Computer Hardware and Support, \textsc{python}, Arduino, Microcip PIC, deep learning frameworks (Tensorflow, Keras, Caffe, Theano.)}
+
+
+%----------------------------------------------------------------------------------------
+%	COMMUNICATION SKILLS SECTION
+%----------------------------------------------------------------------------------------
+
+%\section{Communication Skills}
+%
+%\cvitem{2010}{Oral Presentation at the California Business Conference}
+%\cvitem{2009}{Poster at the Annual Business Conference in Oregon}
+
+%----------------------------------------------------------------------------------------
+%	LANGUAGES SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Languages}
+
+\cvitemwithcomment{English}{Mothertongue}{Fluent in speaking and proficient in writing}
+\cvitemwithcomment{Malay}{Advanced}{Fluent in speaking and proficient in writing}
+\cvitemwithcomment{Mandarin}{Intermediate}{Conversationally fluent}
+\cvitemwithcomment{Korean}{Basic}{Basic phrases and words}
+
+
+%----------------------------------------------------------------------------------------
+%	PUBLICATION SECTION
+%----------------------------------------------------------------------------------------
+
+\nocite{*}
+\bibliographystyle{plain}
+\bibliography{publication}
+
+
+%\cvitem{2012}{\bibentry{how2012modular}}
+%\cvitem{2014}{\bibentry{how2014image}}
+%\cvitem{2014}{\bibentry{how2014robotic}}
+%\cvitem{2012}{\bibentry{anuar2014learning}}
+
+
+
+%----------------------------------------------------------------------------------------
+%	INTERESTS SECTION
+%----------------------------------------------------------------------------------------
+
+%\section{Interests}
+%
+%\renewcommand{\listitemsymbol}{-~} % Changes the symbol used for lists
+%
+%\cvlistdoubleitem{Music}{Guitar}
+%\cvlistdoubleitem{Programming}{Hacking}
+%\cvlistdoubleitem{Camping}{Hiking}
+
+
+
+\end{document}
