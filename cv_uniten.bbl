@@ -1,90 +1,99 @@
 \begin{thebibliography}{10}
-\providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{\texttt{#1}}
-\expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Anuar et~al.(2014)Anuar, Phesal, Zakaria, Hock, Thiruchelvam, How,
-  Ghani, and Sahari]{anuar2014learning}
-Adzly Anuar, Maryam Huda~Ahmad Phesal, Azrul~Abidin Zakaria, Goh~Chin Hock,
-  Sivadass Thiruchelvam, Dickson Neoh~Tze How, Muhammad Fahmi~Abdul Ghani, and
-  Khairul Salleh~Mohamed Sahari.
-\newblock Learning basic mechatronics through helicopter workshop.
-\newblock \emph{International Journal of Asian Social Science}, 4\penalty0
-  (2):\penalty0 320--325, 2014.
+\bibitem{baharuddin2021object}
+MZ~Baharuddin, DNT How, KSM Sahari, AZ~Abas, and MK~Ramlee.
+\newblock Object detection model training framework for very small datasets
+  applied to outdoor industrial structures.
+\newblock In {\em International Visual Informatics Conference}, pages 540--551.
+  Springer, Cham, 2021.
 
-\bibitem[Hou et~al.(2017)Hou, Sahari, Weng, How, and
-  Seki]{doi:10.1177/1729881417738727}
-Yew~Cheong Hou, Khairul Salleh~Mohamed Sahari, Leong~Yeng Weng, Dickson
-  Neoh~Tze How, and Hiroaki Seki.
-\newblock Particle-based perception of garment folding for robotic manipulation
-  purposes.
-\newblock \emph{International Journal of Advanced Robotic Systems}, 14\penalty0
-  (6):\penalty0 1729881417738727, 2017.
+\bibitem{hannan2021deep}
+MA~Hannan, DNT How, MS~Lipu, M~Mansor, Pin~Jern Ker, ZY~Dong, KSM Sahari,
+  SK~Tiong, KM~Muttaqi, TM~Mahlia, et~al.
+\newblock Deep learning approach towards accurate state of charge estimation
+  for lithium-ion batteries using self-supervised transformer model.
+\newblock {\em Scientific reports}, 11(1):1--13, 2021.
 
-\bibitem[How and Sahari(2016)]{how2016character}
+\bibitem{hannan2020soc}
+Mahammad~A Hannan, Dickson~NT How, MS~Hossain Lipu, Pin~Jern Ker, Zhao~Yang
+  Dong, M~Mansur, and Frede Blaabjerg.
+\newblock Soc estimation of li-ion batteries with learning rate-optimized deep
+  fully convolutional network.
+\newblock {\em IEEE Transactions on Power Electronics}, 36(7):7349--7353, 2020.
+
+\bibitem{hannan2021state}
+Mahammad~A Hannan, Dickson~NT How, Muhamad~Bin Mansor, Md~S~Hossain Lipu,
+  Pin~Jern Ker, and Kashem~M Muttaqi.
+\newblock State-of-charge estimation of li-ion battery using gated recurrent
+  unit with one-cycle learning rate policy.
+\newblock {\em IEEE Transactions on Industry Applications}, 57(3):2964--2971,
+  2021.
+
+\bibitem{how2019state}
+Dickson N.~T. How, M.~A. Hannan, M.~S.~Hossain Lipu, and Pin~Jern Ker.
+\newblock State of charge estimation for lithium-ion batteries using
+  model-based and data-driven methods: A review.
+\newblock {\em IEEE Access}, 7:136116--136136, 2019.
+
+\bibitem{how2018dataglove}
+Dickson Neoh~Tze How, Wan Zul Fahmi Bin~Wan Ibrahim, and Khairul Salleh~Mohamed
+  Sahari.
+\newblock A dataglove hardware design and real-time sign gesture
+  interpretation.
+\newblock In {\em 2018 Joint 10th International Conference on Soft Computing
+  and Intelligent Systems (SCIS) and 19th International Symposium on Advanced
+  Intelligent Systems (ISIS)}, pages 946--949. IEEE, 2018.
+
+\bibitem{how2016behavior}
+Dickson Neoh~Tze How, Chu~Kiong Loo, and Khairul Salleh~Mohamed Sahari.
+\newblock Behavior recognition for humanoid robots using long short-term
+  memory.
+\newblock {\em International journal of advanced robotic systems},
+  13(6):1729881416663369, 2016.
+
+\bibitem{how2016character}
 Dickson Neoh~Tze How and Khairul Salleh~Mohamed Sahari.
 \newblock Character recognition of malaysian vehicle license plate with deep
   convolutional neural networks.
-\newblock In \emph{2016 IEEE International Symposium on Robotics and
-  Intelligent Sensors (IRIS)}, pages 1--5. IEEE, 2016.
+\newblock In {\em 2016 IEEE International Symposium on Robotics and Intelligent
+  Sensors (IRIS)}, pages 1--5. IEEE, 2016.
 
-\bibitem[How et~al.(2012)How, Baharuddin, Mohideen, Sahari, and
-  Anuar]{how2012modular}
-Dickson Neoh~Tze How, Mohd~Zafri Baharuddin, Syed Sulaiman~Kaja Mohideen,
-  Khairul Salleh~Mohamed Sahari, and Adzly Anuar.
-\newblock Modular motor driver with torque control for gripping mechanism.
-\newblock \emph{Procedia Engineering}, 41:\penalty0 1476--1482, 2012.
+\bibitem{how2019recognizing}
+Dickson Neoh~Tze How, Khairul Salleh~Mohamed Sahari, Yew~Cheong Hou, and Omar
+  Gumaan~Saleh Basubeit.
+\newblock Recognizing malaysia traffic signs with pre-trained deep
+  convolutional neural networks.
+\newblock In {\em 2019 4th International Conference on Control, Robotics and
+  Cybernetics (CRC)}, pages 109--113. IEEE, 2019.
 
-\bibitem[How et~al.(2014{\natexlab{a}})How, Keat, Anuar, and
-  Sahari]{how2014robotic}
-Dickson Neoh~Tze How, Chan~Wai Keat, Adzly Anuar, and Khairul Salleh~Mohamed
-  Sahari.
-\newblock Robotic arm control based on human arm motion.
-\newblock In \emph{The 8th International Conference on Robotic, Vision, Signal
-  Processing \& Power Applications}, pages 81--88. Springer,
-  2014{\natexlab{a}}.
-
-\bibitem[How et~al.(2014{\natexlab{b}})How, Sahari, Anuar, Baharuddin, Ghani,
-  and Aziz]{how2014image}
-Dickson Neoh~Tze How, Khairul Salleh~Mohamed Sahari, Adzly Anuar, Mohd~Zafri
-  Baharuddin, Muhammad Fahmi~Abdul Ghani, and Mohd~Azwan Aziz.
-\newblock Image acquisition system for boiler header inspection robot.
-\newblock In \emph{The 8th International Conference on Robotic, Vision, Signal
-  Processing \& Power Applications}, pages 521--528. Springer,
-  2014{\natexlab{b}}.
-
-\bibitem[Hu et~al.(2014)Hu, Neoh, Sahari, and Loo]{hu2014learning}
-Yuhuang Hu, Dickson Tze~How Neoh, Khairul Salleh~Mohamed Sahari, and Chu~Kiong
-  Loo.
-\newblock Learning sufficient representation for spatio-temporal deep network
-  using information filter.
-\newblock In \emph{System Integration (SII), 2014 IEEE/SICE International
-  Symposium on}, pages 655--658. IEEE, 2014.
-
-\bibitem[Jalal et~al.(2017)Jalal, Sahari, Aziz, Yunos, Anuar, Ghani, and
-  How]{jalal2017design}
-Muhammad Fairuz~Abdul Jalal, Khairul Salleh~Mohamed Sahari, Mohd~Azwan Aziz,
-  Kamal Yunos, Adzly Anuar, Muhammad Fahmi~Abdul Ghani, and Dickson Neoh~Tze
-  How.
-\newblock Design and development of robotic system for visual inspection of
-  boiler tube inner surface.
-\newblock \emph{Procedia computer science}, 105:\penalty0 304--309, 2017.
-
-\bibitem[Neoh et~al.(2014)Neoh, Yuhuang, Loo, and {Mohamed
-  Sahari}]{Neoh1412:Multiple}
-Dickson Neoh, Hu~Yuhuang, Chu~Kiong Loo, and Khairul~Salleh {Mohamed Sahari}.
+\bibitem{how2014multiple}
+Dickson Neoh~Tze How, Khairul Salleh~Mohamed Sahari, Hu~Yuhuang, and Loo~Chu
+  Kiong.
 \newblock Multiple sequence behavior recognition on humanoid robot using long
-  {Short-Term} memory {(LSTM)}.
-\newblock In \emph{IEEE 2014 International Symposium on Robotics and
-  Manufacturing Automation (IEEE-ROMA2014)}, Kuala Lumpur, Malaysia, dec 2014.
-  IEEE.
+  short-term memory (lstm).
+\newblock In {\em 2014 IEEE international symposium on robotics and
+  manufacturing automation (ROMA)}, pages 109--114. IEEE, 2014.
 
-\bibitem[Yew and Sahari(2018)]{yew2018real}
-Cheong~Hou Yew and Khairul Salleh~Mohamed Sahari.
-\newblock Real-time modeling and parameter approximation of dexterous garment
-  folding by robot.
-\newblock \emph{Artificial Life and Robotics}, pages 1--8, 2018.
+\bibitem{how2021soc}
+DNT How, MA~Hannan, MS~Hossain Lipu, PJ~Ker, M~Mansor, KSM Sahari, and
+  KM~Muttaqi.
+\newblock Soc estimation using deep bidirectional gated recurrent units with
+  tree parzen estimator hyperparameter optimization.
+\newblock In {\em 2021 IEEE Industry Applications Society Annual Meeting
+  (IAS)}, pages 1--8. IEEE, 2021.
+
+\bibitem{how2020state}
+DNT How, MA~Hannan, MS~Hossain Lipu, KSM Sahari, PJ~Ker, and KM~Muttaqi.
+\newblock State-of-charge estimation of li-ion battery in electric vehicles: A
+  deep neural network approach.
+\newblock In {\em IEEE Transactions on Industry Applications}, volume~56, pages
+  5565--5574. IEEE, 2020.
+
+\bibitem{lipu2020data}
+MS~Hossain Lipu, MA~Hannan, Aini Hussain, Afida Ayob, Mohamad~HM Saad, Tahia~F
+  Karim, and Dickson~NT How.
+\newblock Data-driven state of charge estimation of lithium-ion batteries:
+  Algorithms, implementation factors, limitations and future trends.
+\newblock {\em Journal of Cleaner Production}, 277:124110, 2020.
 
 \end{thebibliography}
