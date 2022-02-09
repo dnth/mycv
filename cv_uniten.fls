@@ -270,6 +270,7 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/natbib/bibentry.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/natbib/bibentry.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/natbib/bibentry.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/natbib/bibentry.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
 INPUT ./cv_uniten.bbl
 INPUT cv_uniten.bbl
 INPUT ./cv_uniten.bbl

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2022.2.7)  9 FEB 2022 11:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2022.2.7)  9 FEB 2022 13:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -503,18 +503,18 @@ Package rerunfilecheck Info: File `cv_uniten.out' has not changed.
 (rerunfilecheck)             Checksum: 8D972B67CDEEE1CCD50662CE7893B182;1385.
  ) 
 Here is how much of TeX's memory you used:
- 13068 strings out of 478278
- 211195 string characters out of 5846562
+ 13070 strings out of 478278
+ 211228 string characters out of 5846562
  552594 words of memory out of 5000000
- 30868 multiletter control sequences out of 15000+600000
+ 30870 multiletter control sequences out of 15000+600000
  534807 words of font info for 137 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,13n,83p,1030b,580s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmsso17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv_uniten.pdf (5 pages, 285082 bytes).
+Output written on cv_uniten.pdf (5 pages, 285032 bytes).
 PDF statistics:
- 185 PDF objects out of 1000 (max. 8388607)
- 142 compressed objects within 2 object streams
+ 187 PDF objects out of 1000 (max. 8388607)
+ 144 compressed objects within 2 object streams
  30 named destinations out of 1000 (max. 500000)
  37470 words of extra memory for PDF output out of 42996 (max. 10000000)
 
