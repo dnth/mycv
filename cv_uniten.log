@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2022.2.7)  9 FEB 2022 13:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2022.2.7)  9 FEB 2022 13:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -478,7 +478,7 @@ Package microtype Info: Loading generic protrusion settings for font family
  (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 123.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 125.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [1
@@ -486,18 +486,18 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./pictures/portrait.jpg>] [2]
 
 LaTeX Font Warning: Font shape `T1/lmss/m/scsl' undefined
-(Font)              using `T1/lmss/m/sc' instead on input line 202.
+(Font)              using `T1/lmss/m/sc' instead on input line 205.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 202.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 205.
 
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 [3]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 269.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 272.
  (./cv_uniten.bbl [4]) [5] (./cv_uniten.aux)
 Package rerunfilecheck Info: File `cv_uniten.out' has not changed.
 (rerunfilecheck)             Checksum: 8D972B67CDEEE1CCD50662CE7893B182;1385.
@@ -511,10 +511,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  70i,13n,83p,1030b,580s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmsso17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv_uniten.pdf (5 pages, 285032 bytes).
+Output written on cv_uniten.pdf (5 pages, 285291 bytes).
 PDF statistics:
- 187 PDF objects out of 1000 (max. 8388607)
- 144 compressed objects within 2 object streams
+ 191 PDF objects out of 1000 (max. 8388607)
+ 148 compressed objects within 2 object streams
  30 named destinations out of 1000 (max. 500000)
  37470 words of extra memory for PDF output out of 42996 (max. 10000000)
 
