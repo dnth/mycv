@@ -702,10 +702,6 @@ INPUT ./cv_uniten.out
 OUTPUT cv_uniten.out
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
-INPUT ./pictures/portrait.jpg
-INPUT pictures/portrait.jpg
-INPUT ./pictures/portrait.jpg
-INPUT ./pictures/portrait.jpg
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmsso17.tfm
@@ -740,11 +736,6 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmtt.fd
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmtt.fd
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmtt.fd
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmtt.fd
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmtt10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmss10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-mvs.cfg
@@ -761,13 +752,8 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmsso12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/marvosym/umvs.tfm
 INPUT /usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/marvosym/umvs.tfm
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmcsc10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmss8.tfm
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
-INPUT ./cv_uniten.bbl
-INPUT cv_uniten.bbl
-INPUT ./cv_uniten.bbl
-INPUT cv_uniten.bbl
+INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/lm/ec-lmcsc10.tfm
 INPUT cv_uniten.aux
 INPUT ./cv_uniten.out
 INPUT ./cv_uniten.out
@@ -782,5 +768,4 @@ INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmss8.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmsso10.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmsso17.pfb
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmtt10.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb
